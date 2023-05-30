@@ -1,0 +1,3 @@
+/workspace/zlib/out/CMakeFiles/mas.dir
+/workspace/zlib/out/CMakeFiles/edit_cache.dir
+/workspace/zlib/out/CMakeFiles/rebuild_cache.dir

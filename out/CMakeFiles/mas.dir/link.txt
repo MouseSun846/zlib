@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/mas.dir/main.cpp.o -o mas   -L/workspace/zlib/lib/lib  -Wl,-rpath,/workspace/zlib/lib/lib -lz -lminizip 
